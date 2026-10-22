@@ -1,0 +1,1 @@
+window.RIGX_CONFIG = {"turnstileSiteKey":"","api":false};
