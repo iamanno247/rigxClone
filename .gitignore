@@ -1,0 +1,18 @@
+# Claude Code
+.claude/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor dirs
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+npm-debug.log*
+node_modules/
